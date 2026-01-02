@@ -31,9 +31,6 @@ Thumbs.db
 /Migrations/*.cs
 /OfferApiService/Migrations/*.cs
 
-# Docker
-**/Dockerfile
-
 # Others
 *.db
 *.sqlite
